@@ -1,0 +1,1 @@
+Synthetic ECG-like signal generated with deterministic seed 42. Components: clean P/QRS/T morphology, 0.33 Hz baseline wander, 50 Hz interference, and Gaussian EMG-like noise. This is a reproducible engineering test signal, not a clinical patient record.

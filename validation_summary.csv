@@ -1,0 +1,7 @@
+Configuration,SNR vs clean (dB),RMSE,Role
+Input noisy ECG,1.8522219279194194,0.11645900246250421,Reference
+FIR Hamming (81 taps),4.040325947186808,0.11645900246250421,Primary deployment candidate
+FIR Kaiser (81 taps),3.812780233591424,0.11955021224667291,Alternative FIR
+IIR Butterworth (4th order),1.2334731855489331,0.1598885448202833,Benchmark; lower phase linearity
+Q15 FIR - rounding,4.040230934824868,0.11646027637984292,Fixed-point reference
+Q15 FIR - truncation,4.039951039221438,0.11646402927631042,Fixed-point comparison

@@ -1,0 +1,45 @@
+{
+  "input_snr_db": 1.8522219279194194,
+  "fir_hamming_snr_db": 4.040325947186808,
+  "fir_kaiser_snr_db": 3.812780233591424,
+  "iir_snr_db": 1.2334731855489331,
+  "fir_hamming_rmse": 0.11645900246250421,
+  "fir_kaiser_rmse": 0.11955021224667291,
+  "iir_rmse": 0.1598885448202833,
+  "fir_hamming_freq": {
+    "passband_ripple_db": 1.0907229125225575,
+    "low_stop_max_db": -1.1379035317985722,
+    "high_stop_max_db": -25.194679938318473
+  },
+  "fir_kaiser_freq": {
+    "passband_ripple_db": 1.0622748018552166,
+    "low_stop_max_db": -0.8496288705949133,
+    "high_stop_max_db": -18.781125554984857
+  },
+  "iir_freq": {
+    "passband_ripple_db": 1.2898734098121445,
+    "low_stop_max_db": -28.869991618406306,
+    "high_stop_max_db": -5.6005888313732015
+  },
+  "qrs_hamming_mean_abs_ms": 0.0,
+  "qrs_hamming_max_abs_ms": 0.0,
+  "qrs_kaiser_mean_abs_ms": 0.0,
+  "qrs_kaiser_max_abs_ms": 0.0,
+  "polyphase_max_error": 1.0492335592380526,
+  "polyphase_rmse": 0.2180315555302329,
+  "direct_mac_per_s": 29160.0,
+  "polyphase_mac_per_s": 14580.0,
+  "polyphase_reduction_pct": 50.0,
+  "input_rate_hz": 360.0,
+  "decimated_rate_hz": 180.0,
+  "interpolated_rate_hz": 360.0,
+  "fixed_point_scale_factor": 1.577121224624936,
+  "headroom_db": 1.938200260161128,
+  "q15_round_snr_db": 4.040230934824868,
+  "q15_trunc_snr_db": 4.039951039221438,
+  "q15_round_rmse": 0.11646027637984292,
+  "q15_trunc_rmse": 0.11646402927631042,
+  "q15_round_vs_float_snr_db": 81.24804521631316,
+  "q15_trunc_vs_float_snr_db": 77.10421623660815,
+  "limit_cycle_tail_peak": 0.0
+}

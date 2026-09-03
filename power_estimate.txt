@@ -1,0 +1,1 @@
+Illustrative assumption-based estimate only: VDD=3.3 V, active current=30 mA, active electrical power=99.0 mW. This is NOT a measured hardware result.
